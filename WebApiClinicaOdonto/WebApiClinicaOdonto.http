@@ -1,0 +1,6 @@
+@WebApiClinicaOdonto_HostAddress = http://localhost:5143
+
+GET {{WebApiClinicaOdonto_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
